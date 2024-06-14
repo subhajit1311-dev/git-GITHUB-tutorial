@@ -1,0 +1,3 @@
+Git is a distributed version control system that tracks versions of files
+it is often used to control source code by programmers collaboratively developing software
+ 
